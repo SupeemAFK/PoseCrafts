@@ -1,7 +1,7 @@
 # PoseCrafts: Transforming Text into Dynamic 2D Characters with Openpose 🏃
 
 ## What is PoseCrafts?
-PoseCrafts is a motion model that generate 2D motion in [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) format for using it to generate 2d animation spritesheets for 2d characters in [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) with [Controlnet](https://github.com/lllyasviel/ControlNet)
+PoseCrafts is a motion model that generate 2D motion in [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) format from textual description for using it to generate 2d animation spritesheets for 2d characters in [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) with [Controlnet](https://github.com/lllyasviel/ControlNet)
 
 ## Datasets 📦
 Create my own dataset by using Pose Estimation Controlnet to estimate spritesheets image collected from [Sprite Resources](https://www.spriters-resource.com/) and editing its result from Pose Estimation to correcting shape and label text description in file name. I collected data around 2 weeks and I got 400 samples then I collect more data to get more 200 samples without sleeping😪. You can see the datasets here: [Openpose Motion Dataset](https://github.com/SupeemAFK/PoseCrafts/tree/main/datasets)
