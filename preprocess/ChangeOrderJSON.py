@@ -6,7 +6,7 @@ def list_files(root_dir):
         for filename in filenames:
             yield os.path.join(dirpath, filename)
 
-folder_path = "[FOLDER PATH]"
+folder_path = "[FOLDER_PATH]"
 for file_path in list_files(folder_path):
     with open(file_path, 'r') as r:
         data = json.load(r)
