@@ -30,9 +30,11 @@ The demo only generate openpose sequence frames if you want 2d pixel art generat
 Create my own dataset by using Pose Estimation Controlnet to estimate spritesheets image collected from [Sprite Resources](https://www.spriters-resource.com/) and editing its result from Pose Estimation to correcting shape and label text description in file name. I collected data around 2 weeks and I got 400 samples then I collect more data to get more 200 samples without sleeping😪. You can see the datasets here: [Openpose Motion Dataset](https://github.com/SupeemAFK/PoseCrafts/tree/main/datasets)
 
 ## Process 🧪
-I use Sentence Transformer for text encoding then I used encoded text to train my model. I've experimented on many models such as Simple Dense, CNN, RNN and LSTM and from the Evaluation using MAE LSTM perform best
+I use Sentence Transformer for text encoding then I used encoded text to train my model. I've experimented on many models such as Simple Dense, CNN, RNN and LSTM and from the Evaluation using MAE LSTM perform best. For full process of this AI please read full medium blog below
 - Sentence Transformer
 [sentence-transformers all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+- Full medium blog
+[Medium Blog](https://medium.com/@Supeem/posecrafts-transforming-text-into-dynamic-2d-characters-with-openpose-594861900be6)
 
 ## Deployment🚀
 - Backend
