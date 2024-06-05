@@ -19,7 +19,22 @@ I use Sentence Transformer for text encoding then I used encoded text to train m
   - Fork from [https://github.com/huchenlei/sd-webui-openpose-editor](https://github.com/huchenlei/sd-webui-openpose-editor) to create demo client that can generate poses.
   - Github Repo: [posecrafts-sd-webui-openpose-editor](https://github.com/SupeemAFK/sd-webui-openpose-editor)
 
-## Demo ▶️
-### Text Input: "a girl walking forward"
-![LSTM_walk forward girly](https://github.com/SupeemAFK/PoseCrafts/assets/83326313/5db425dc-7976-41eb-9468-69b05cec789e)
+## Demo [▶️](https://posecrafts.vercel.app/)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/5db425dc-7976-41eb-9468-69b05cec789e"/>
+      <h3>Text Input: "a girl walking forward"</h3>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/3e7b68ec-1f59-412b-8d4e-861bcebb1a19"/>
+      <h3>Text Input: "a girl running forward"</h3>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/26f6d27d-43b8-4ab0-a385-d46fbb39e27a"/>
+      <h3>Text Input: "a girl hurting and stagger"</h3>
+    </td>
+  </tr>
+</table>
+
 ### Trying Demo: [PoseCrafts Demo Web](https://posecrafts.vercel.app/)
