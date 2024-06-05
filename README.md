@@ -23,6 +23,9 @@ PoseCrafts is a motion model that generate 2D motion in [openpose](https://githu
 
 ### Trying Demo: [PoseCrafts Demo Web](https://posecrafts.vercel.app/)
 
+### !!! Note📢 !!! 
+The demo only generate openpose sequence frames if you want 2d pixel art generated like gif image above please use [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to generate
+
 ## Datasets 📦
 Create my own dataset by using Pose Estimation Controlnet to estimate spritesheets image collected from [Sprite Resources](https://www.spriters-resource.com/) and editing its result from Pose Estimation to correcting shape and label text description in file name. I collected data around 2 weeks and I got 400 samples then I collect more data to get more 200 samples without sleeping😪. You can see the datasets here: [Openpose Motion Dataset](https://github.com/SupeemAFK/PoseCrafts/tree/main/datasets)
 
