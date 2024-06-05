@@ -20,6 +20,6 @@ I use Sentence Transformer for text encoding then I used encoded text to train m
   - Github Rep: [sd-webui-openpose-editor](https://github.com/SupeemAFK/sd-webui-openpose-editor)
 
 ## Demo ▶️
-### Text Description: a girl walking forward
+### Text Input: "a girl walking forward"
 ![LSTM_walk forward girly](https://github.com/SupeemAFK/PoseCrafts/assets/83326313/5db425dc-7976-41eb-9468-69b05cec789e)
 ### Trying Demo: [PoseCrafts Demo Web](https://posecrafts.vercel.app/)
