@@ -22,4 +22,4 @@ I use Sentence Transformer for text encoding then I used encoded text to train m
 ## Demo ▶️
 ### Text Description: a girl walking forward
 ![LSTM_walk forward girly](https://github.com/SupeemAFK/PoseCrafts/assets/83326313/5db425dc-7976-41eb-9468-69b05cec789e)
-### Trying Demo: [PoseCrafts Demo Web](https://github.com/SupeemAFK/PoseCrafts/assets/83326313/5db425dc-7976-41eb-9468-69b05cec789e)
+### Trying Demo: [PoseCrafts Demo Web](https://posecrafts.vercel.app/)
