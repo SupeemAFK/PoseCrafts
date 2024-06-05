@@ -17,7 +17,7 @@ I use Sentence Transformer for text encoding then I used encoded text to train m
   - Github Repo: [PoseCrafts-API](https://github.com/SupeemAFK/PoseCrafts-API)
 - Frontend
   - Fork from [https://github.com/huchenlei/sd-webui-openpose-editor](https://github.com/huchenlei/sd-webui-openpose-editor) to create demo client that can generate poses.
-  - Github Repo: [sd-webui-openpose-editor](https://github.com/SupeemAFK/sd-webui-openpose-editor)
+  - Github Repo: [posecrafts-sd-webui-openpose-editor](https://github.com/SupeemAFK/sd-webui-openpose-editor)
 
 ## Demo ▶️
 ### Text Input: "a girl walking forward"
