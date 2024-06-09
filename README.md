@@ -7,16 +7,25 @@ PoseCrafts is a motion model that generate 2D motion in [openpose](https://githu
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/5db425dc-7976-41eb-9468-69b05cec789e"/>
       <h3>Text Input: "a girl walking forward"</h3>
+      <h4>Pose generated from PoseCrafts</h4>
+      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/dd39c91e-bf44-4bd5-9db8-1701c60faf40"/>
+      <h4>Pose generated from PoseCrafts</h4>
+      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/b0fb81f3-6fbf-4cd5-9073-9747daee3787"/>
     </td>
     <td valign="top">
-      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/3e7b68ec-1f59-412b-8d4e-861bcebb1a19"/>
       <h3>Text Input: "a girl running forward"</h3>
+      <h4>Pose generated from PoseCrafts</h4>
+      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/2e74bcfd-f0c8-4ac8-b883-3b0d0c056be5"/>
+      <h4>Generate from stable diffusion</h4>
+      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/825bc72a-4fc6-4aaa-aa12-77f2791e7dd1"/>
     </td>
     <td valign="top">
-      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/26f6d27d-43b8-4ab0-a385-d46fbb39e27a"/>
       <h3>Text Input: "a girl hurting and stagger"</h3>
+      <h4>Pose generated from PoseCrafts</h4>
+      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/98206590-7b8e-4ac4-91a7-1ff8f20bce74"/>
+      <h4>Pose generated from PoseCrafts</h4>
+      <img src="https://github.com/SupeemAFK/PoseCrafts/assets/83326313/4b48643e-cb66-45ee-9e4e-62ceaa0c14fb"/>
     </td>
   </tr>
 </table>
