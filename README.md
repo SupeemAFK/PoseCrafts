@@ -1,4 +1,4 @@
-# PoseCrafts: Transforming Text into Dynamic 2D Characters with Openpose Generation 🏃
+# PoseCrafts: Transforming Text into Dynamic 2D Characters with Openpose Generation🏃
 
 ## What is PoseCrafts?
 PoseCrafts is a motion model that generate 2D motion in [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) format from textual description for using it to generate 2d animation spritesheets for 2d characters in [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) with [Controlnet](https://github.com/lllyasviel/ControlNet)
